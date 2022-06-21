@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T13:03:01.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="axEywhV0s-vT0MC6L38Q" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T11:57:48.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="hrPpWa96N4EkXrmB6ZxB" version="20.0.1" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="1730" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,10 +49,10 @@
         <mxCell id="44" value="Career development subsystem" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="669.9999999999998" y="335.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="46" value="Team subsystem designing" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="46" value="Team subsystem design" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="469.9999999999999" y="430.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47" value="Team subsystem UI/UX designing" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="47" value="Team subsystem UI/UX design" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="469.9999999999998" y="510.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="48" value="Team subsystem Frontend development" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -61,10 +61,10 @@
         <mxCell id="49" value="Team subsystem backend development" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="470.0000000000001" y="670.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="51" value="Career development subsystem  designing" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="51" value="Career development subsystem  design" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="669.9999999999995" y="430.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52" value="Career development subsystem UI/UX designing" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="52" value="Career development subsystem UI/UX design" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="669.9999999999995" y="510.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53" value="Career development subsystem frontend development" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -244,10 +244,10 @@
         <mxCell id="139" value="Meeting subsystem&#xa;backend development" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="840.0000000000001" y="750.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="141" value="Main system designing" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="141" value="Main system design" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1039.9999999999995" y="430.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="142" value="Main system UI/UX designing" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="142" value="Main system UI/UX design" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1039.9999999999995" y="510.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="143" value="Main system frontend development" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
